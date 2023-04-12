@@ -1,3 +1,4 @@
+//기본적으로 Thread 클래스와 Runnable 인터페이스를 사용하기 위한 예제
 class Ex1 extends Thread {
     private int num;
     public Ex1(int num) {
